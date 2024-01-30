@@ -1,0 +1,35 @@
+License Agreement for Limelight Notebooks
+
+IMPORTANT: PLEASE READ THIS LICENSE AGREEMENT CAREFULLY BEFORE USING THIS SOFTWARE.
+
+1. License Grant: The author(s) of Limelight Notebooks ("Limelight Vision") hereby grant(s) users ("User" or "You") 
+a non-exclusive, non-transferable, limited license to use Limelight Notebooks ("Software") solely for integrating with, 
+operating, or managing Limelight Smart Cameras. This License is subject to the restrictions set forth below and includes 
+any updates, enhancements, new features, and/or the addition of any new Web services to the Software, unless explicitly 
+stated otherwise by The Author.
+
+2. Restrictions: You agree not to use the Software or its outputs for any purposes beyond the scope of the express license granted above. Specifically, You are not permitted to:
+   a. Use the Software or its outputs for any device or purpose other than Limelight Smart Cameras.
+   b. Copy, modify, distribute, sell, or lease any part of the Software or its outputs, except as expressly permitted by this License.
+   c. Reverse engineer, decompile, or attempt to extract the source code of the Software, unless laws prohibit these restrictions or you have The Author's written permission.
+
+3. Ownership: The Software is owned by The Author and is protected by copyright and other intellectual property laws and treaties. 
+The Author retains all rights not expressly granted to You in this License. The use of the Software does not give you 
+ownership of any intellectual property rights in the Software or the content you access.
+
+4. No Warranty: The Software is provided "as is", without warranty of any kind, express or implied, including but not limited to the 
+warranties of merchantability, fitness for a particular purpose, and noninfringement. 
+In no event shall The Author be liable for any claim, damages, or other liability, whether in an action of contract, 
+tort, or otherwise, arising from, out of, or in connection with the Software or the use or other dealings in the Software.
+
+5. Termination: This License is effective until terminated. 
+Your rights under this License will terminate automatically without notice 
+from The Author if you fail to comply with any term(s) of this License. 
+Upon termination, you shall cease all use of the Software and destroy all copies, full or partial, of the Software.
+
+6. Governing Law: This License shall be governed by the laws of the jurisdiction in which The Author resides, without regard to its conflict of law provisions.
+
+BY USING THE SOFTWARE, YOU ACKNOWLEDGE THAT YOU HAVE READ THIS LICENSE, UNDERSTAND IT, AND AGREE TO BE BOUND BY ITS TERMS.
+
+1/30/2024
+Limelight Vision
